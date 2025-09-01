@@ -1,1 +1,1 @@
-# Electricity-theft-detection-using-ML
+# Electricity Theft Detection Using ML
